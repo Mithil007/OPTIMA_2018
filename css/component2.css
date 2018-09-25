@@ -29,7 +29,7 @@ body {
 
 .cn-button {
 	position: fixed;
-	top: 50%;
+	top: 50vh;
 	left:50%;
 	z-index: 11;
 	margin-top: -2.25em;
@@ -70,7 +70,7 @@ body {
 
 .csstransforms .cn-wrapper {
 	position: fixed;
-	top: 50%;
+	top: 50vh;
 	left: 50%;
 	z-index: 10;
 	margin-top: -13em;
